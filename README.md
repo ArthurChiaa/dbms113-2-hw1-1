@@ -1,4 +1,4 @@
-# DBMS 113-2 Homework 1-1
+# DBMS 113-2 Homework 1
 
 There're 5 tasks for you.
 
